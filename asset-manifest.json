@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/useEffectrecipe/static/css/main.ff5bc65f.css",
+    "main.js": "/useEffectrecipe/static/js/main.91eae386.js",
+    "static/js/787.3a9a2877.chunk.js": "/useEffectrecipe/static/js/787.3a9a2877.chunk.js",
+    "index.html": "/useEffectrecipe/index.html",
+    "main.ff5bc65f.css.map": "/useEffectrecipe/static/css/main.ff5bc65f.css.map",
+    "main.91eae386.js.map": "/useEffectrecipe/static/js/main.91eae386.js.map",
+    "787.3a9a2877.chunk.js.map": "/useEffectrecipe/static/js/787.3a9a2877.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff5bc65f.css",
+    "static/js/main.91eae386.js"
+  ]
+}
