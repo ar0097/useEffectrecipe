@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  height: 100vh;
+  width: 100vw;
+}
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.display {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.display-cards {
+  height: 100%;
+  padding: 0.5rem;
+  justify-content: center;
+}
+button {
+  cursor: pointer;
+  padding: 2px;
+  background-color: antiquewhite;
+}
+button:hover {
+  border: none;
+  color: snow;
+}
